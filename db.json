@@ -4,33 +4,26 @@
     {"id": 2, "name": "Paulina Quintero", "viewsPerUser": 200, "clickRateperUser":80, "acceptedShares": 190},
     {"id": 3, "name": "Carlos Jimenez", "viewsPerUser": 29, "clickRateperUser":37, "acceptedShares": 43},
     {"id": 4, "name": "Ernesto Tapia", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 42},
-    {"id": 5, "name": "Ricardo Holguin", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 28},
-    {"id": 6, "name": "Luis Sotomayor", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 29},
-    {"id": 7, "name": "Fernando Salcido", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 11},
-    {"id": 8, "name": "Marcos Vicañas", "viewsPerUser": 0, "clickRateperUser":50, "acceptedShares": 0}
+    {"id": 5, "name": "Ricardo Holguin", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 28}
   ],
   "URLs": [
     {"id": 1, "URL": "https://i.insider.com/5df126b679d7570ad2044f3e?width=1100&format=jpeg&auto=webp", "TimesShared":77, "TimesClicked":24},
     {"id": 2, "URL": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HB4AT3D3IMI6TMPTWIZ74WAR54.jpg&w=1440", "TimesShared":10, "TimesClicked":20},
     {"id": 3, "URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-hu7Kcgy4eVlwlKNM4Z7rsn40G4cHBbiOTMuj-TNH0YdQf3fF&usqp=CAU", "TimesShared":999, "TimesClicked":24},
     {"id": 4, "URL": "https://i.imgur.com/0ao2xnM.mp4", "TimesShared":420, "TimesClicked":24},
-    {"id": 5, "URL": "https://imgur.com/t/corgi/IzkPTrt", "TimesShared":78, "TimesClicked":24},
-    {"id": 6, "URL": "https://i.imgur.com/K6TSlez.jpg", "TimesShared":60, "TimesClicked":24},
-    {"id": 7, "URL": "https://i.imgur.com/eftMzXY.jpg", "TimesShared":90, "TimesClicked":24},
-    {"id": 8, "URL": "https://i.imgur.com/hCuzHBA.jpg", "TimesShared":0, "TimesClicked":0}
+    {"id": 5, "URL": "https://imgur.com/t/corgi/IzkPTrt", "TimesShared":78, "TimesClicked":24}
     ]
   "Albumes":[
   {"name": "Las hamburguesas",
    "List":{
-          "Url0":"https://sevilla.abc.es/gurme/wp-content/uploads/sites/24/2012/01/comida-rapida-casera.jpg"
-          "Url1":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg"
+            "Url0":"https://sevilla.abc.es/gurme/wp-content/uploads/sites/24/2012/01/comida-rapida-casera.jpg",
+            "Url1":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg"
           }
    }
   {"name": "Naturaleza",
    "List":{
-          "Url0":"https://dinamarais.com/wp-content/uploads/2018/01/Blog-9-Ways-to-Take-Responsiblity-for-Your-Life.jpeg"
+          "Url0":"https://dinamarais.com/wp-content/uploads/2018/01/Blog-9-Ways-to-Take-Responsiblity-for-Your-Life.jpeg",
           "Url3":"https://q-cf.bstatic.com/images/hotel/max1024x768/102/102248877.jpg"
-          "Url4":"https://cdn.telanganatoday.com/wp-content/uploads/2020/04/16-Photo-Guru-G-e1587640934283.jpg"
           }
   }
   ]
