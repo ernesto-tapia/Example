@@ -1,7 +1,7 @@
 {
   "Analytics": [
     {"id": 1, "name": "Ana Robles", "viewsPerUser": 25, "clickRateperUser":30, "acceptedShares": 20},
-    {"id": 2, "name": "Paulina Quintero", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 21},
+    {"id": 2, "name": "Paulina Quintero", "viewsPerUser": 200, "clickRateperUser":80, "acceptedShares": 190},
     {"id": 3, "name": "Carlos Jimenez", "viewsPerUser": 29, "clickRateperUser":37, "acceptedShares": 43},
     {"id": 4, "name": "Ernesto Tapia", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 42},
     {"id": 5, "name": "Ricardo Holguin", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 28},
