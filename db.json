@@ -12,19 +12,5 @@
     {"id": 3, "URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-hu7Kcgy4eVlwlKNM4Z7rsn40G4cHBbiOTMuj-TNH0YdQf3fF&usqp=CAU", "TimesShared":999, "TimesClicked":24},
     {"id": 4, "URL": "https://i.imgur.com/0ao2xnM.mp4", "TimesShared":420, "TimesClicked":24},
     {"id": 5, "URL": "https://imgur.com/t/corgi/IzkPTrt", "TimesShared":78, "TimesClicked":24}
-    ],
-  "Albumes": [
-  {"name": "Las hamburguesas",
-   "List":{
-            "Url0":"https://sevilla.abc.es/gurme/wp-content/uploads/sites/24/2012/01/comida-rapida-casera.jpg",
-            "Url1":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg"
-          }
-   },
-  {"name": "Naturaleza",
-   "List":{
-          "Url0":"https://dinamarais.com/wp-content/uploads/2018/01/Blog-9-Ways-to-Take-Responsiblity-for-Your-Life.jpeg",
-          "Url3":"https://q-cf.bstatic.com/images/hotel/max1024x768/102/102248877.jpg"
-          }
-  }
-  ]
+    ]
 }
