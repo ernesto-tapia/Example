@@ -1,5 +1,4 @@
-{
-  "Analytics": [
+[
     {"id": 1, "name": "Ana Robles", "viewsPerUser": 25, "clickRateperUser":30, "acceptedShares": 20},
     {"id": 2, "name": "Paulina Quintero", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 21},
     {"id": 3, "name": "Carlos Jimenez", "viewsPerUser": 29, "clickRateperUser":37, "acceptedShares": 43},
@@ -8,8 +7,4 @@
     {"id": 6, "name": "Luis Sotomayor", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 29},
     {"id": 7, "name": "Fernando Salcido", "viewsPerUser": 24, "clickRateperUser":33, "acceptedShares": 11},
     {"id": 8, "name": "Marcos Vicañas", "viewsPerUser": 60, "clickRateperUser":50, "acceptedShares": 4}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+] 
