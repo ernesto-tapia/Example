@@ -4,23 +4,5 @@
         "name": "Ana Robles",
         "viewsPerUser": 25,
         "clickRateperUser":30,
-    },
-    {
-        "id": 2,
-        "name": "Paulina Quintero",
-        "viewsPerUser": 24,
-        "clickRateperUser":33,
-    },
-    {
-        "id": 3,
-        "name": "Carlos Jimenez",
-        "viewsPerUser": 29,
-        "clickRateperUser":37,
-    },
-    {
-        "id": 4,
-        "name": "Ernesto Tapia",
-        "viewsPerUser": 24,
-        "clickRateperUser":33,
     }
 ] 
